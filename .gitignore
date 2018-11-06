@@ -3,3 +3,6 @@
 ################################################################################
 
 /lika/bin/Debug
+/lika/obj/Debug
+/lika/.vs/lika/v15
+/lika/obj/Release
